@@ -7,6 +7,8 @@
 
 1.2插入排序(Insertion Sort)
 
+1.3冒泡排序(Bubble Sort)
+
 第二章 排序基础
 
 2排序基础
