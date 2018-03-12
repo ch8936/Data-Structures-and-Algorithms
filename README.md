@@ -14,3 +14,5 @@
 2  O(nlogn)级别的排序算法
 
 2.1归并排序(Merge Sort)
+
+2.2快速排序(Quick Sort)
