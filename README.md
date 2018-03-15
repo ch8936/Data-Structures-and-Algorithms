@@ -18,3 +18,6 @@
 2.2快速排序(Quick Sort)
 
 3 堆(Heap)
+
+Shift Up
+
