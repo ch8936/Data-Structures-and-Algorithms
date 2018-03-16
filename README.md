@@ -16,6 +16,7 @@
 2.1归并排序(Merge Sort)
 
 2.2快速排序(Quick Sort)
+
 2.2.1双路快速排序法
 
 3 堆(Heap)
