@@ -23,5 +23,7 @@
 
 3 堆(Heap)
 
-3.1Shift Up操作
+3.1 Shift Up操作
 
+
+3.2 Shift Down操作
