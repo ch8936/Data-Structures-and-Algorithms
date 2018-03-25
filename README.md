@@ -28,4 +28,6 @@
 
 3.2 Shift Down操作
 
-3.3基础堆排序和Heapify
+3.3 基础堆排序和Heapify
+
+3.4 优化的堆排序 - Heap Sort
