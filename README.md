@@ -31,3 +31,5 @@
 3.3 基础堆排序和Heapify
 
 3.4 优化的堆排序 - Heap Sort
+
+3.5 索引堆 - Index Heap
