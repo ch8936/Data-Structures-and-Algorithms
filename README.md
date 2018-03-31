@@ -25,7 +25,6 @@
 
 3.1 Shift Up操作
 
-
 3.2 Shift Down操作
 
 3.3 基础堆排序和Heapify
@@ -39,3 +38,5 @@
 3.7 最小索引堆
 
 3.8 索引排序
+
+4 二分查找法（Binary Search）
