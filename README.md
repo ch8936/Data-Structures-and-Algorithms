@@ -40,3 +40,5 @@
 3.8 索引排序
 
 4 二分查找法（Binary Search）
+
+4.1 二分搜索树基础（Binary Search Tree）
