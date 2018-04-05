@@ -42,3 +42,5 @@
 4 二分查找法（Binary Search）
 
 4.1 二分搜索树基础（Binary Search Tree）
+
+4.2 二分搜索树的节点插入
