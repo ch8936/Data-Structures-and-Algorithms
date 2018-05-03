@@ -78,3 +78,5 @@
 第五章 并查集
 
 5.1 并查集基础（Union Find）
+
+5.2 Quick Find
