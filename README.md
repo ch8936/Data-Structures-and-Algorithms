@@ -82,3 +82,5 @@
 5.2 Quick Find
 
 5.3 Quick Union
+
+5.4 基于size的优化
