@@ -84,3 +84,5 @@
 5.3 Quick Union
 
 5.4 基于size的优化
+
+5.5 基于rank的优化
