@@ -112,3 +112,5 @@
 7.3 Prim算法的第一个实现 (Lazy Prim)
 
 7.4 Prim算法的优化
+
+7.5 Kruskal算法
